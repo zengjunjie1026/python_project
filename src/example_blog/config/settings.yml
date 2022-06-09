@@ -1,1 +1,14 @@
 LOG_LEVEL: INFO
+
+DATABASE:
+  DRIVER: mysql
+  NAME: example_blog
+  HOST: 127.0.0.1
+  PORT: 3306
+  USERNAME: root
+  PASSWORD: Python4junjie_
+  QUERY:
+    charset: utf8mb4
+
+HOST: 127.0.0.1
+PORT: 8000
