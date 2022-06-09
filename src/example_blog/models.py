@@ -6,7 +6,7 @@
 @contact: zengjunjie@thinkenergy.tech
 @software: Pycharm
 @application:
-@file: model.py
+@file: models.py
 @time: 09/06/22 18:23
 @desc:
 '''

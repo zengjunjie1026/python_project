@@ -5,8 +5,8 @@ DATABASE:
   NAME: example_blog
   HOST: 127.0.0.1
   PORT: 3306
-  USERNAME: root
-  PASSWORD: Python4junjie_
+  USERNAME: andrew
+  PASSWORD: python
   QUERY:
     charset: utf8mb4
 
